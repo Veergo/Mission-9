@@ -1,0 +1,19 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+.card-header {
+    background-color: blueviolet;
+}
+
+.card-body {
+    border-style: double;
+    border-color: black;
+    text-shadow: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-footer {
+    background-color: aqua;
+    border-style: dashed;
+}
